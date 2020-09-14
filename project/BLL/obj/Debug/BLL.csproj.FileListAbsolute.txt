@@ -1,0 +1,14 @@
+D:\לימודים\C#\project\project\BLL\bin\Debug\BLL.dll
+D:\לימודים\C#\project\project\BLL\bin\Debug\BLL.pdb
+D:\לימודים\C#\project\project\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\לימודים\C#\project\project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\לימודים\C#\project\project\BLL\obj\Debug\BLL.dll
+D:\לימודים\C#\project\project\BLL\obj\Debug\BLL.pdb
+D:\לימודים\C#\project\project\BLL\bin\Debug\projectdb.mdf
+D:\לימודים\C#\project\project\BLL\bin\Debug\projectdb_log.ldf
+D:\לימודים\C#\project\project\BLL\bin\Debug\EntityFramework.dll
+D:\לימודים\C#\project\project\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\לימודים\C#\project\project\BLL\bin\Debug\EntityFramework.xml
+D:\לימודים\C#\project\project\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\לימודים\C#\project\project\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\לימודים\C#\project\project\BLL\bin\Debug\BLL.dll.config
